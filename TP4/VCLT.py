@@ -1,4 +1,4 @@
-# TP2 - Ej2 - Phy Numérique
+# TP4 - Ej2 - Phy Numérique
 # Verification of Central Limit Theorem
 
 # There is a mistake in the code, check later, as for bigger N the gaussian is more spread when it should be sharper (probably just to label mistake)
