@@ -3,6 +3,7 @@ L3. Phy Numérique
 Question de cours nº1
 Erasmus: Miguel Angel Martinez Camara
 """
+
 import numpy as np
 import scipy.integrate
 
